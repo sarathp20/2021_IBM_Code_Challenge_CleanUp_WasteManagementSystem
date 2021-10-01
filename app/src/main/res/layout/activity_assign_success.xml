@@ -5,8 +5,7 @@
     android:layout_width="match_parent"
     android:orientation="vertical"
     android:layout_height="match_parent"
-    tools:context=".AssignSuccess"
-    android:background="@color/white">
+    tools:context=".AssignSuccess">
 
     <ImageView
         android:layout_width="178dp"
